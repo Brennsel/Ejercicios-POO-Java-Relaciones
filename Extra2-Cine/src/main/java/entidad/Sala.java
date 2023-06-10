@@ -65,7 +65,6 @@ public class Sala {
                 asientos[i][j] = ubicacion.concat(columna);
             }
         }
-
     }
 
     public void inicializarUbicaciones() {
@@ -108,5 +107,4 @@ public class Sala {
             System.out.println(" ");
         }
     }
-
 }
